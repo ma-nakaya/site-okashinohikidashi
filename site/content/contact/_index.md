@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: お問合せ
 logo: img/okashinohikidashi.icon.jpg
 contact_entries:
   - heading: 住所
