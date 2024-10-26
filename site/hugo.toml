@@ -1,7 +1,7 @@
 baseurl = "/"
 languageLang = "en"
 languageCode = 'ja'
-title = "Kaldi"
+title = "おかしのひきだし"
 hasCJKLanguage = true
 
 # RSS, categories and tags disabled for an easy start
