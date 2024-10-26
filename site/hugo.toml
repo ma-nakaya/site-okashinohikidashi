@@ -1,5 +1,4 @@
 baseurl = "/"
-languageCode = "en-us"
 languageLang = "en"
 languageCode = 'ja'
 title = "Kaldi"
