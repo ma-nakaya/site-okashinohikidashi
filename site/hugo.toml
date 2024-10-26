@@ -1,7 +1,9 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
+languageCode = 'ja'
 title = "Kaldi"
+hasCJKLanguage = true
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
