@@ -1,13 +1,9 @@
 baseurl = "/"
 languageLang = "en"
-languageCode = 'ja'
+languageCode = "ja"
 title = "おかしのひきだし"
 hasCJKLanguage = true
-
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
-images = ["img/og-image.jpg"]
+images = ["img/okashinohikidashi.icon.jpg"]
