@@ -1,11 +1,11 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/okashinohikidashi.icon.jpg
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: 住所
+    text: 住所浜松市中央区幸1-15-27
+  - heading: 営業時間
+    text: 9：00～完売次第 営業終了
 ---
 
 We’d love to get in touch with you and hear your ideas and
