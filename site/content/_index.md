@@ -1,7 +1,7 @@
 ---
 title: 毎日お店で焼き上げるふわふわコッペパンに地元野菜を使ってお惣菜をひとつひとつ手作りしています。
 subtitle: 職場でのランチ/会議/イベントなど要望に合わせてオーダーできます。
-image: /img/home-jumbotron.jpg
+image: img/pxl_20240226_014528448.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
